@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="onda1" group-title="Generalistas",Onda Uno
+demo.mp4
+#EXTINF:-1 tvg-id="ondanature" group-title="Documentales",Onda Naturaleza
+demo.mp4
+#EXTINF:-1 tvg-id="ondacine" group-title="Entretenimiento",Onda Cine
+demo.mp4
+#EXTINF:-1 tvg-id="ondadeporte" group-title="Deportes",Onda Deporte
+demo.mp4
+#EXTINF:-1 tvg-id="ondamusica" group-title="Música",Onda Música
+demo.mp4
+#EXTINF:75 tvg-type="movie" group-title="Películas" description="Vídeo de demostración de Onda para probar la reproducción y reanudar desde la última posición.",Luz de marea
+demo.mp4
+#EXTINF:75 tvg-type="series" group-title="Series",La costa S01E01 - Horizonte
+demo.mp4
+#EXTINF:75 tvg-type="series" group-title="Series",La costa S01E02 - La travesía
+demo.mp4
+#EXTINF:75 tvg-type="series" group-title="Series",La costa S02E01 - Mar abierto
+demo.mp4
